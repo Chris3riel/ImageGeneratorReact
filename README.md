@@ -16,7 +16,7 @@ Escrito en TypeScript (TSX) para una mayor seguridad y escalabilidad
 Consume la API de la IA generativa de imágenes para generar imágenes personalizadas
 Permite al usuario interactuar con la API a través de una interfaz de usuario fácil de usar
 ## Instalación
-Clona el repositorio: git clone https://github.com/tu-usuario/imagenes-ia-frontend.git
+Clona el repositorio: git clone [https://github.com/Chris3riel/ImageGeneratorReact.git]
 
 Instala las dependencias: npm install o yarn install
 
