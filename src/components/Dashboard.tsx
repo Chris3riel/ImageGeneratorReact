@@ -82,7 +82,7 @@ function Dashboard() {
                     <Footer/>
                 </div>
 
-                <img className="position-absolute top-0 w-100 h-100 object-fit-cover img-fluid circle-in-bottom-right-animation" src="../../public/img/Screenshot from 2024-08-22 11-28-56.png" alt="" />
+                <img className="position-absolute top-0 w-100 h-100 object-fit-cover img-fluid circle-in-bottom-right-animation" src="../../img/Screenshot from 2024-08-22 11-28-56.png" alt="" />
 
                 <div className="position-absolute top-0 w-100 h-100 bg-black opacity-25"></div>
             </section>

@@ -1,5 +1,9 @@
 # Imagenes IA Frontend
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Descripción
 Este proyecto es un frontend desarrollado con React, Vite y TypeScript (TSX) que consume una API de una IA generativa de imágenes. El objetivo es proporcionar una interfaz de usuario intuitiva y atractiva para interactuar con la API y generar imágenes de alta calidad.
 
