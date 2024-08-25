@@ -13,7 +13,7 @@ function Navbar(){
           <a className="nav-link active text-white" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white" href="#">Sobre Nosotros</a>
+          <a className="nav-link text-white" href="/nosotros">Sobre Nosotros</a>
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
