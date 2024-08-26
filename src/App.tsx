@@ -4,6 +4,7 @@ import Dashboard from "./components/Dashboard";
 import ImageGenerator from "./components/ImageGenerator";
 import SobreNosotros from "./components/SobreNosotros";
 import SignIn from "./components/SignIn";
+import LogIn from "./components/LogIn";
 
 function App () {
   return (
@@ -14,6 +15,7 @@ function App () {
         <Route path="/image" element={< ImageGenerator/>}/>
         <Route path="/nosotros" element={<SobreNosotros/>}/>
         <Route path="/Registro" element={<SignIn/>}/>
+        <Route path="/Login" element={<LogIn/>}/>
       </Routes>
     </BrowserRouter>
   );
