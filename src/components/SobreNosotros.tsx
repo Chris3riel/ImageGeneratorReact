@@ -6,13 +6,13 @@ import "./Dashboard";
 function SobreNosotros(){
     return(
         <>
-        <section className="position-relative min-vh-100">
+        <section className="position-relative min-vh-100 circle-in-bottom-right-animation">
             <div className="position-relative z-2">
                 <Navbar />
 
                 <h1 className="text-white fw-lighter font-monospace text-center py-3 ">IMAGENES GENERADAS CON WAY.ia</h1>
 
-                <main className="container mt-4 border border-2 border-light rounded-5 p-4 wipe-in-right">
+                <main className="container mt-4 border border-2 border-light rounded-5 p-4 circle-in-bottom-right-animation">
                     
                     <div id="carouselExampleCaptions" className="carousel slide">
                         <div className="carousel-indicators">
@@ -62,7 +62,7 @@ function SobreNosotros(){
             {/*<video muted autoPlay loop className="position-relative top-0 w-100 h-100 object-fit-cover">
                 <source />
             </video>*/}
-            <img className="position-absolute top-0 w-100 h-100 object-fit-cover img-fluid circle-in-bottom-right-animation" src="../../img/FemaleAdventurer1.webp" alt="" />
+            <img className="position-absolute top-0 w-100 h-100 object-fit-cover img-fluid" src="../../img/FemaleAdventurer1.webp" alt="" />
 
             <div className="capa position-absolute top-0 w-100 h-100 bg-black opacity-75 "></div>
         </section>
