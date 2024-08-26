@@ -26,7 +26,7 @@ function Inicio(){
             <source src="../../VID_20240821_191124_372.mp4" type="video/mp4"/>
         </video>
         
-        <div className="capa position-absolute top-0 w-100 h-100 bg-black opacity-25 "></div>
+        <div className="capa position-absolute top-0 w-100 h-100 bg-black opacity-50 "></div>
     </section>
     </>);
 }

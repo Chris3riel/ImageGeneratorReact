@@ -10,9 +10,9 @@ function SobreNosotros(){
             <div className="position-relative z-2">
                 <Navbar />
 
-                <h1 className="text-white fw-lighter font-monospace text-center py-3">IMAGENES GENERADAS CON WAY.ia</h1>
+                <h1 className="text-white fw-lighter font-monospace text-center py-3 ">IMAGENES GENERADAS CON WAY.ia</h1>
 
-                <main className="container mt-4 border border-2 border-light rounded-5 p-4 circle-in-bottom-right-animation">
+                <main className="container mt-4 border border-2 border-light rounded-5 p-4 wipe-in-right">
                     
                     <div id="carouselExampleCaptions" className="carousel slide">
                         <div className="carousel-indicators">
@@ -64,7 +64,7 @@ function SobreNosotros(){
             </video>*/}
             <img className="position-absolute top-0 w-100 h-100 object-fit-cover img-fluid circle-in-bottom-right-animation" src="../../img/FemaleAdventurer1.webp" alt="" />
 
-            <div className="capa position-absolute top-0 w-100 h-100 bg-black opacity-25 "></div>
+            <div className="capa position-absolute top-0 w-100 h-100 bg-black opacity-75 "></div>
         </section>
         </>
     );

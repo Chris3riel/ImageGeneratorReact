@@ -16,18 +16,18 @@ function Navbar(){
           <a className="nav-link text-white" href="/nosotros">Sobre Nosotros</a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Opciones
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Action</a></li>
-            <li><a className="dropdown-item" href="#">Another action</a></li>
+            <li><a className="dropdown-item" href="/Registro">Registrarse</a></li>
+            <li><a className="dropdown-item" href="#">Iniciar Sesión</a></li>
             <li><hr className="dropdown-divider"/></li>
-            <li><a className="dropdown-item" href="#">Something else here</a></li>
+            <li><a className="dropdown-item" href="#">Reportar un problema</a></li>
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" aria-disabled="true">help</a>
+          <a className="nav-link disabled text-black-50" aria-disabled="true">help</a>
         </li>
       </ul>
       <form className="d-flex" role="search">
